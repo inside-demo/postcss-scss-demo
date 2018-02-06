@@ -10,7 +10,7 @@
   "devDependencies": {
     "node-sass": "^4.7.2",
     "postcss": "^6.0.17",
-    "postcss-scss": "^1.0.3",
-    "precss": "^3.1.0"
+    "postcss-nested": "^3.0.0",
+    "postcss-sassy-mixins": "^2.1.0"
   }
 }
