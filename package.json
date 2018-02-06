@@ -1,0 +1,16 @@
+{
+  "name": "postcss-scss-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2",
+    "postcss": "^6.0.17",
+    "postcss-scss": "^1.0.3",
+    "precss": "^3.1.0"
+  }
+}
