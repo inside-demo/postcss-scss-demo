@@ -8,7 +8,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "postcss": "^6.0.17",
     "postcss-nested": "^3.0.0",
     "postcss-sassy-mixins": "^2.1.0"
